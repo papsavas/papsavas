@@ -2,7 +2,7 @@
 
 
 ![My stats](https://github-readme-stats.vercel.app/api?username=papsavas&count_private=true&theme=tokyonight&show_icons=true&show_owner=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papsavas&layout=compact&theme=tokyonight)](https://github.com/papsavas/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=papsavas&&count_private=true&layout=compact&theme=tokyonight)](https://github.com/papsavas/github-readme-stats)
 <!--
 **papsavas/papsavas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
